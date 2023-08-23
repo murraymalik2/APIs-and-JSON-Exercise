@@ -1,0 +1,5 @@
+C:\Users\murra\Source\Repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.AssemblyReference.cache
+C:\Users\murra\Source\Repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\Source\Repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfoInputs.cache
+C:\Users\murra\Source\Repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfo.cs
+C:\Users\murra\Source\Repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CoreCompileInputs.cache

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace APIsAndJSON
 {
-    internal class RonVSKanyeAPI
+    public class RonVSKanyeAPI
     {
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
